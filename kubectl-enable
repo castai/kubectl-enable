@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# optional argument handling
+if [[ "$1" == "automation" ]]
+then
+    echo ""
+    echo "Cast AI - Cut your Kubernetes costs in half"
+    echo "https://cast.ai"
+    echo ""
+fi
+
+# optional argument handling
+if [[ "$1" == "automation -A" ]]
+then
+   echo ""
+   echo "Cast AI - Cut your Kubernetes costs in half with -A :)"
+   echo "https://cast.ai"
+   echo ""
+fi
+
+echo ":)"
