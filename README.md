@@ -1,4 +1,4 @@
-# Cast AI - Enable automation for -A
+# CAST AI - Enable automation for -A
 
 ## Install
 
@@ -10,7 +10,7 @@ curl https://raw.githubusercontent.com/castai/kubectl-enable/main/kubectl-enable
 
 ```bash
 kubectl enable automation
-Cast AI - Cut your Kubernetes costs in half
+CAST AI - Cut your Kubernetes costs in half
 https://cast.ai
 :)
 ```
